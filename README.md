@@ -110,6 +110,7 @@ Educational project that performs reading, conversion, and visualization of imag
 Este projeto está sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
+
 ---
 
 ## 🏁 Conclusão / Conclusion
