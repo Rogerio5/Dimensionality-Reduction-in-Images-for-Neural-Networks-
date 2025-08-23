@@ -36,11 +36,13 @@
 Projeto educacional que realiza a leitura, conversão e visualização de imagens no formato **PPM (Portable Pixmap)**, sem uso de bibliotecas externas. Ideal para quem deseja entender como os pixels funcionam e como aplicar transformações como **escala de cinza** e **binarização** diretamente nos dados da imagem.
 
 Educational project that performs reading, conversion, and visualization of images in **PPM (Portable Pixmap)** format, without the use of external libraries. Ideal for those who want to understand how pixels work and how to apply transformations like **grayscale** and **binarization** directly on the image data.
+
 ---
 
 ## 🚧 Status
 
 ✅ Projeto concluído e funcional!
+
 ✅ Project completed and functional!
 
 ---
@@ -106,10 +108,12 @@ Educational project that performs reading, conversion, and visualization of imag
 ## 📜 Licença / License
 
 Este projeto está sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
+
 This project is licensed under the MIT License. See the LICENSE file for more details.
 ---
 
 ## 🏁 Conclusão / Conclusion
 
 Este projeto oferece uma introdução prática e acessível à manipulação de imagens em baixo nível. Ao dispensar bibliotecas externas, ele revela com precisão como os dados visuais são estruturados e transformados, promovendo uma compreensão profunda dos fundamentos da computação gráfica.
+
 This project offers a practical and accessible introduction to low-level image manipulation. By foregoing external libraries, it accurately reveals how visual data is structured and transformed, promoting a deep understanding of the fundamentals of computer graphics.
