@@ -9,57 +9,62 @@
 ## 🏅 Badges
 
 - 📦 Tamanho do repositório:  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/Rogerio5/ppm-image-processing)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/Rogerio5/Dimensionality-Reduction-in-Images-for-Neural-Networks-
+)
 
 - 📄 Licença do projeto:  
-  ![GitHub license](https://img.shields.io/github/license/Rogerio5/ppm-image-processing)
+  ![GitHub license](https://img.shields.io/github/license/Rogerio5/Dimensionality-Reduction-in-Images-for-Neural-Networks-
+)
 
 ---
 
 ## 📋 Índice / Table of Contents
 
-- [📖 Descrição](#-descrição)
-- [🚧 Status](#-status)
-- [⚙️ Funcionalidades](#️-funcionalidades)
-- [🌐 Acesso](#-acesso)
-- [🧰 Tecnologias](#-tecnologias)
-- [👨‍💻 Desenvolvedor](#-desenvolvedor)
-- [📜 Licença](#-licença)
-- [🏁 Conclusão](#-conclusão)
+- [📖 Descrição / Description](#-descrição--description)
+- [🚧 Status / Status](#status--status)
+- [⚙️ Funcionalidades / Features](#funcionalidades--features)
+- [🌐 Acesso / Access](#-acesso--Access)
+- [🧰 Tecnologias / Technologies](#tecnologias--technologies)
+- [👨‍💻 Desenvolvedor / Developer](#desenvolvedor--developer)
+- [📜 Licença / License](#licença--license)
+- [🏁 Conclusão / Conclusion](#conclusão--conclusion)
 
 ---
 
-## 📖 Descrição
+## 📖 Descrição / Description
 
 Projeto educacional que realiza a leitura, conversão e visualização de imagens no formato **PPM (Portable Pixmap)**, sem uso de bibliotecas externas. Ideal para quem deseja entender como os pixels funcionam e como aplicar transformações como **escala de cinza** e **binarização** diretamente nos dados da imagem.
 
+Educational project that performs reading, conversion, and visualization of images in **PPM (Portable Pixmap)** format, without the use of external libraries. Ideal for those who want to understand how pixels work and how to apply transformations like **grayscale** and **binarization** directly on the image data.
 ---
 
 ## 🚧 Status
 
 ✅ Projeto concluído e funcional!
+✅ Project completed and functional!
 
 ---
 
 ## ⚙️ Funcionalidades
 
-| 🔧 Função                  | 📌 Descrição                                 |
+| 🔧 Função                  | 📌 💡 Feature (EN)                           |
 |---------------------------|----------------------------------------------|
-| 📥 Leitura de imagens PPM | Suporte aos formatos P3 (texto) e P6 (binário) |
-| 🎨 Conversão para cinza   | Aplicação da fórmula perceptual de luminância |
-| ⚫⚪ Binarização            | Transformação em imagem preto e branco        |
-| 💾 Salvamento em PPM      | Geração de arquivos `.ppm` no formato P3      |
-| 🌐 Visualização em HTML   | Renderização das imagens diretamente no notebook |
+| 📥 Leitura de imagens PPM | 📥 PPM image reading (supports P3 and P6 formats) |
+| 🎨 Conversão para cinza   | 🎨 Grayscale conversion using luminance formula |
+| ⚫⚪ Binarização          | ⚫⚪ Black-and-white transformation (thresholding)       |
+| 💾 Salvamento em PPM      | 💾 PPM file generation in P3 format     |
+| 🌐 Visualização em HTML   | 🌐 Image rendering directly in the notebook |
 
 ---
 
-## 🌐 Acesso
+## 🌐 Acesso / Access
 
-- [Repositório no GitHub](https://github.com/Rogerio5/ppm-image-processing)
+- [Repositório no GitHub/GitHub Repository](https://github.com/Rogerio5/Dimensionality-Reduction-in-Images-for-Neural-Networks-
+)
 
 ---
 
-## 🧰 Tecnologias
+## 🧰 Tecnologias / Technologies
 
 <p>
   <img 
@@ -92,18 +97,19 @@ Projeto educacional que realiza a leitura, conversão e visualização de imagen
 
 ---
 
-## 👨‍💻 Desenvolvedor
+## 👨‍💻 Desenvolvedor / Developer
 
 - [Rogerio](https://github.com/Rogerio5)
 
 ---
 
-## 📜 Licença
+## 📜 Licença / License
 
 Este projeto está sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
-
+This project is licensed under the MIT License. See the LICENSE file for more details.
 ---
 
-## 🏁 Conclusão
+## 🏁 Conclusão / Conclusion
 
-Este projeto é uma excelente introdução à manipulação de imagens em baixo nível. Ao evitar bibliotecas externas, ele oferece uma compreensão clara de como os dados visuais são estruturados e transformados. Ideal para estudantes, curiosos e entusiastas de computação gráfica.
+Este projeto oferece uma introdução prática e acessível à manipulação de imagens em baixo nível. Ao dispensar bibliotecas externas, ele revela com precisão como os dados visuais são estruturados e transformados, promovendo uma compreensão profunda dos fundamentos da computação gráfica.
+This project offers a practical and accessible introduction to low-level image manipulation. By foregoing external libraries, it accurately reveals how visual data is structured and transformed, promoting a deep understanding of the fundamentals of computer graphics.
