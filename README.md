@@ -2,7 +2,7 @@
 
 # 🧠 Projeto Processamento de Imagens PPM
 
-![Imagem de capa](Caca-a-jato.jpg)
+![Imagem de capa](Caca-a-jato.png)
 
 ---
 
