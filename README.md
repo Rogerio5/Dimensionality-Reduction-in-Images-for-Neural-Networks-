@@ -2,6 +2,10 @@
 
 # 🧠 Projeto Processamento de Imagens PPM
 
+Este projeto foi desenvolvido em Python utilizando Google Colab e Jupyter Notebook.  
+ [Abrir no Google Colab](https://colab.research.google.com/github/Rogerio5//blob/main/Dimensionality_Reduction_in_Images_for_Neural_Networks.ipynb
+) 
+
 ![Imagem de capa](Caca-a-jato.png)
 
 ---
